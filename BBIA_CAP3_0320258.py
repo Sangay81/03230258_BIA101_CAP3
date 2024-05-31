@@ -55,7 +55,7 @@ def print_solution(file_name):# Prints the total sum of two-digit numbers extrac
     print(f"The total sum of from the given input file {file_name} is {total_sum}")#This line of code prints the total sum of two-digit numbers extracted from a given input file, with placeholders for the filename (file_name) and the total sum (total_sum).
 
 # Run the solution
-file_name = '258.txt'#assigns the filename '258 (2).txt' to the variable file_name, which will be used to reference the input file during the program execution.
+file_name = '03230258_BIA101_CAP3/258.txt'#assigns the filename '03230258_BIA101_CAP3/258.txt' to the variable file_name, which will be used to reference the input file during the program execution.
 print_solution(file_name)#It calls the function print_solution() with the argument file_name, which triggers the printing of the total sum of two-digit numbers extracted from the specified input file.
 
 
